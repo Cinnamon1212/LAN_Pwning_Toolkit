@@ -1,7 +1,7 @@
 # LAN_Pwning_Toolkit
 
-This tool was design to be used in Debian based penetration testing OS's such as Parrot OS and Kali. 
-  Please ensure that any other distro has the following tools installed:
+This tool was design to be used in Debian based penetration testing OS's such as Parrot OS and Kali.   
+  Please ensure that any other distro has the following tools installed:  
     [x] Nmap  
     [x]Arpspoof  
     [x] Macchanger  
